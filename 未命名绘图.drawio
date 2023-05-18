@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T06:24:53.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="r0WbZrW-vvFQqSzKutBw" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T06:29:20.600Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8Z5ms_AE5z7dgfwY9UFK" version="21.1.7" type="github">
   <diagram name="第 1 页" id="OWcDPwG_KXpg9vmuoTmE">
     <mxGraphModel dx="2046" dy="-617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,43 +11,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-1" value="抖音、微信&lt;br&gt;预约" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1770" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_-OQLuINP-SNg2zKhc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-2" target="PI_-OQLuINP-SNg2zKhc-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_-OQLuINP-SNg2zKhc-2" value="微信&lt;br&gt;直接购买" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="3064" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_-OQLuINP-SNg2zKhc-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-5" target="PI_-OQLuINP-SNg2zKhc-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_-OQLuINP-SNg2zKhc-5" value="微信&lt;br&gt;复购" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="3064" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_-OQLuINP-SNg2zKhc-8" value="始终归属到&lt;br&gt;复购的加盟商" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="3270" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_-OQLuINP-SNg2zKhc-10" value="归属到鲸致" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="3270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-540" y="1180" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-12" target="PI_-OQLuINP-SNg2zKhc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-12" value="购买即预约&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;买约一体，按距离分配加盟商&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;鲸致自营也参与分配" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="1924" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_-OQLuINP-SNg2zKhc-14" value="" style="swimlane;startSize=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="3030" width="380" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="PI_-OQLuINP-SNg2zKhc-15" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 15px;&quot;&gt;非抖音渠道，不分配加盟商&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="PI_-OQLuINP-SNg2zKhc-14">
-          <mxGeometry x="110" y="4" width="200" height="30" as="geometry" />
+          <mxGeometry x="-710" y="1334" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-16" target="PI_-OQLuINP-SNg2zKhc-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-16" value="开始分配加盟商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="2080" width="120" height="80" as="geometry" />
+          <mxGeometry x="-560" y="1490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-17" target="PI_-OQLuINP-SNg2zKhc-19">
           <mxGeometry relative="1" as="geometry" />
@@ -61,12 +37,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-17" value="订单中的商品指定加盟商" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="2360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-19" target="PI_-OQLuINP-SNg2zKhc-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-140" y="2500" />
+              <mxPoint x="-120" y="1910" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,16 +55,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-19" value="直营城市且商品为品类" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="2470" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-21" value="得到加盟商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="2760" width="80" height="80" as="geometry" />
+          <mxGeometry x="-160" y="2170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-26">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-140" y="2760" as="targetPoint" />
+            <mxPoint x="-120" y="2170" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-140" y="2600" />
+              <mxPoint x="-120" y="2010" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -101,16 +77,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-26" value="若城市，经纬度为空（未预约）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="2570" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="1980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-30" target="PI_-OQLuINP-SNg2zKhc-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-140" y="2770" as="targetPoint" />
+            <mxPoint x="-120" y="2180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-140" y="2700" />
+              <mxPoint x="-120" y="2110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-30" value="开始按客户地址与门店的距离派单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="2670" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="2080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-32" target="PI_-OQLuINP-SNg2zKhc-21">
           <mxGeometry relative="1" as="geometry" />
@@ -131,13 +107,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-32" value="融合吃低保的门店&lt;br&gt;距离24小时扩大5公里" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="2770" width="120" height="60" as="geometry" />
+          <mxGeometry x="-560" y="2180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-49" target="PI_-OQLuINP-SNg2zKhc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-49" value="1.未预约状态（且非鲸致工单），&lt;br&gt;2.鲸致自营约不上人&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;从新分配（非鲸致）加盟商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="1924" width="210" height="80" as="geometry" />
+          <mxGeometry x="-490" y="1334" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PI_-OQLuINP-SNg2zKhc-71" target="PI_-OQLuINP-SNg2zKhc-17">
           <mxGeometry relative="1" as="geometry" />
@@ -146,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PI_-OQLuINP-SNg2zKhc-71" value="微信复购单始终&lt;br&gt;归属复购的加盟商" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="2210" width="120" height="80" as="geometry" />
+          <mxGeometry x="-560" y="1620" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
